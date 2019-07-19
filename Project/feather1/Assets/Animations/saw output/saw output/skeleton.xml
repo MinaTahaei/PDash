@@ -1,0 +1,16 @@
+<skeletons>
+ <skeleton name="Top">
+  <nodes>
+   <peg id="0" name="saw_Handle-P"/>
+   <read id="1" name="saw_Handle"/>
+   <peg id="2" name="saw_saw-P"/>
+   <read id="3" name="saw_saw"/>
+  </nodes>
+  <links>
+   <link in="Top" out="0"/>
+   <link in="0" out="1"/>
+   <link in="0" out="2"/>
+   <link in="2" out="3"/>
+  </links>
+ </skeleton>
+</skeletons>

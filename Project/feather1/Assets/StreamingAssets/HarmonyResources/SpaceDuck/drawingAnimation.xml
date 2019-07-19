@@ -1,0 +1,135 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_space_duck" name="SD_idle_space_duck">
+  <drawing node="space_duck_hand_01" name="14">
+   <drw frame="1" repeat="24" name="14-hand_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_arm_01" name="13">
+   <drw frame="1" repeat="24" name="13-arm_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_body" name="3">
+   <drw frame="1" repeat="24" name="3-body-1.png"/>
+  </drawing>
+  <drawing node="space_duck_body_1" name="3">
+   <drw frame="1" repeat="24" name="3-body-1.png"/>
+  </drawing>
+  <drawing node="space_duck_ear_piece" name="8">
+   <drw frame="1" repeat="24" name="8-ear_piece-1.png"/>
+  </drawing>
+  <drawing node="space_duck_beak" name="6">
+   <drw frame="1" repeat="24" name="6-beak-1.png"/>
+  </drawing>
+  <drawing node="space_duck_pupil_01" name="7">
+   <drw frame="1" repeat="24" name="7-pupil_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_eye_01" name="2">
+   <drw frame="1" repeat="24" name="2-eye_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_pupil_02" name="9">
+   <drw frame="1" repeat="24" name="9-pupil_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_eye02" name="5">
+   <drw frame="1" repeat="24" name="5-eye02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_head" name="4">
+   <drw frame="1" repeat="24" name="4-head-1.png"/>
+  </drawing>
+  <drawing node="space_duck_antenna" name="10">
+   <drw frame="1" repeat="24" name="10-antenna-1.png"/>
+  </drawing>
+  <drawing node="space_duck_gun_details" name="17">
+   <drw frame="1" repeat="24" name="17-gun_details-1.png"/>
+  </drawing>
+  <drawing node="space_duck_glow" name="18">
+   <drw frame="1" repeat="24" name="18-glow-2.png"/>
+  </drawing>
+  <drawing node="space_duck_hand_02" name="15">
+   <drw frame="1" repeat="24" name="15-hand_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_hook_gun" name="20">
+   <drw frame="1" repeat="24" name="20-hook_gun-1.png"/>
+  </drawing>
+  <drawing node="space_duck_arm_02" name="16">
+   <drw frame="1" repeat="24" name="16-arm_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_legs_01" name="11">
+   <drw frame="1" repeat="24" name="11-legs_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_legs_02" name="12">
+   <drw frame="1" repeat="24" name="12-legs_02-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_space_duck" name="SD_run_space_duck">
+  <drawing node="space_duck_hand_01" name="14">
+   <drw frame="1" repeat="24" name="14-hand_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_arm_01" name="13">
+   <drw frame="1" repeat="24" name="13-arm_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_body" name="3">
+   <drw frame="1" repeat="24" name="3-body-1.png"/>
+  </drawing>
+  <drawing node="space_duck_body_1" name="3">
+   <drw frame="1" repeat="24" name="3-body-1.png"/>
+  </drawing>
+  <drawing node="space_duck_ear_piece" name="8">
+   <drw frame="1" repeat="24" name="8-ear_piece-1.png"/>
+  </drawing>
+  <drawing node="space_duck_beak" name="6">
+   <drw frame="1" repeat="24" name="6-beak-1.png"/>
+  </drawing>
+  <drawing node="space_duck_pupil_01" name="7">
+   <drw frame="1" repeat="24" name="7-pupil_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_eye_01" name="2">
+   <drw frame="1" repeat="24" name="2-eye_01-1.png"/>
+  </drawing>
+  <drawing node="space_duck_pupil_02" name="9">
+   <drw frame="1" repeat="24" name="9-pupil_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_eye02" name="5">
+   <drw frame="1" repeat="24" name="5-eye02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_head" name="4">
+   <drw frame="1" repeat="24" name="4-head-1.png"/>
+  </drawing>
+  <drawing node="space_duck_antenna" name="10">
+   <drw frame="1" repeat="4" name="10-antenna-2.png"/>
+   <drw frame="5" repeat="8" name="10-antenna-1.png"/>
+   <drw frame="13" repeat="7" name="10-antenna-2.png"/>
+   <drw frame="20" repeat="4" name="10-antenna-1.png"/>
+   <drw frame="24" name="10-antenna-2.png"/>
+  </drawing>
+  <drawing node="space_duck_gun_details" name="17">
+   <drw frame="1" repeat="24" name="17-gun_details-1.png"/>
+  </drawing>
+  <drawing node="space_duck_glow" name="18">
+   <drw frame="1" repeat="24" name="18-glow-1.png"/>
+  </drawing>
+  <drawing node="space_duck_hand_02" name="15">
+   <drw frame="1" repeat="24" name="15-hand_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_hook_gun" name="22">
+   <drw frame="1" repeat="24" name="22-hook_gun-1.png"/>
+  </drawing>
+  <drawing node="space_duck_arm_02" name="16">
+   <drw frame="1" repeat="24" name="16-arm_02-1.png"/>
+  </drawing>
+  <drawing node="space_duck_legs_01" name="11">
+   <drw frame="1" repeat="7" name="11-legs_01-2.png"/>
+   <drw frame="8" repeat="4" name="11-legs_01-3.png"/>
+   <drw frame="12" name="11-legs_01-4.png"/>
+   <drw frame="13" name="11-legs_01-7.png"/>
+   <drw frame="14" repeat="6" name="11-legs_01-4.png"/>
+   <drw frame="20" repeat="4" name="11-legs_01-5.png"/>
+   <drw frame="24" name="11-legs_01-6.png"/>
+  </drawing>
+  <drawing node="space_duck_legs_02" name="12">
+   <drw frame="1" name="12-legs_02-7.png"/>
+   <drw frame="2" repeat="10" name="12-legs_02-2.png"/>
+   <drw frame="12" name="12-legs_02-6.png"/>
+   <drw frame="13" repeat="7" name="12-legs_02-4.png"/>
+   <drw frame="20" repeat="4" name="12-legs_02-5.png"/>
+   <drw frame="24" name="12-legs_02-2.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

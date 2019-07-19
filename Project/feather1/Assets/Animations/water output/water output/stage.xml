@@ -1,0 +1,18 @@
+<stages>
+ <stage name="water_water">
+  <node groupId="0" skinId="0" name="water_left_going_drop" drwId="1"/>
+  <node groupId="0" skinId="0" name="water_right_going_drop" drwId="2"/>
+  <node groupId="0" skinId="0" name="water_1st_down_going_drop" drwId="3"/>
+  <node groupId="0" skinId="0" name="water_2nd_down_going_drop" drwId="4"/>
+  <node groupId="0" skinId="0" name="water_3rd_down_going_drop" drwId="5"/>
+  <node groupId="0" skinId="0" name="water_whaterfall" drwId="6"/>
+  <node groupId="0" skinId="0" name="water_waterfall2" drwId="7"/>
+  <node groupId="0" skinId="0" name="water_half_pipe" drwId="8"/>
+  <node groupId="0" skinId="0" name="water_r_wave" drwId="9"/>
+  <node groupId="0" skinId="0" name="water_l_wave" drwId="10"/>
+  <node groupId="0" skinId="0" name="water_l_wave_1" drwId="11"/>
+  <node groupId="0" skinId="0" name="water_water_on_the_board" drwId="12"/>
+  <node groupId="0" skinId="0" name="water_board" drwId="13"/>
+  <play drawingAnimation="water_Top" name="Top" skeleton="Top" animation="water_Top"/>
+ </stage>
+</stages>

@@ -1,0 +1,69 @@
+
+#include "PL_Mutex.h"
+
+#if !defined(SUPPORT_CXX11_STANDARD) && (defined(TARGET_IOS) || defined(TARGET_MAC))
+
+#include <Foundation/NSLock.h>
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#if 0
+#pragma mark - PL_Mutex::Impl
+#endif
+class PL_Mutex::Impl
+{
+  friend class PL_Mutex;
+
+public:
+
+  Impl()
+  {
+  }
+
+  ~Impl()
+  {
+  }
+
+private:
+  NSLock *_lock;
+};
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#if 0
+#pragma mark - PL_Mutex
+#endif
+
+PL_Mutex::PL_Mutex()
+{
+  _i = new Impl;
+
+  _i->_lock = [[NSLock alloc] init];
+}
+
+PL_Mutex::~PL_Mutex()
+{
+#if !__has_feature(objc_arc)
+	[_i->_lock release];
+#endif
+
+  delete _i;
+}
+
+void PL_Mutex::lock()
+{
+	[_i->_lock lock];
+}
+
+bool PL_Mutex::try_lock()
+{
+  return [_i->_lock tryLock];
+}
+
+void PL_Mutex::unlock()
+{
+  [_i->_lock unlock];
+}
+
+#endif /* TARGET_IOS */

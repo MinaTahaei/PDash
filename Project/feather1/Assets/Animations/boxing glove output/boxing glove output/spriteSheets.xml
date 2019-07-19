@@ -1,0 +1,20 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="my game" width="761" height="94" name="sheet_Top" filename="spriteSheets/sheet_Top-my game.png">
+  <sprite scaleY="3.99938" angleDegrees="0" rect="651,0,110,94" offsetX="29.3125" offsetY="-1.4375" name="2-boxing_glove-1_glove_glove.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="606,0,45,93" offsetX="-78.6875" offsetY="-8.125" name="2-boxing_glove-1_3rd_front_3rd_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="565,0,41,90" offsetX="-92.5" offsetY="-6.9375" name="2-boxing_glove-1_2nd_front_2nd_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="524,0,41,90" offsetX="-61.125" offsetY="-7.0625" name="2-boxing_glove-1_4th_front_4th_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="483,0,41,90" offsetX="-45.5" offsetY="-6.9375" name="2-boxing_glove-1_5th_front_5th_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="442,0,41,90" offsetX="-29.625" offsetY="-6.9375" name="2-boxing_glove-1_6th_front_6th_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="382,0,60,89" offsetX="-27.5" offsetY="-7.0625" name="2-boxing_glove-1_6th_back_6th_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="325,0,57,89" offsetX="-40.9375" offsetY="-7.0625" name="2-boxing_glove-1_5th_back_5th_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="269,0,56,89" offsetX="-71.875" offsetY="-7.0625" name="2-boxing_glove-1_3rd_back_3rd_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="213,0,56,89" offsetX="-56.125" offsetY="-7.0625" name="2-boxing_glove-1_4th_back_4th_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="167,0,46,89" offsetX="-92.625" offsetY="-7" name="2-boxing_glove-1_2nd_back_2nd_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="132,0,35,79" offsetX="-105.062" offsetY="17.875" name="2-boxing_glove-1_1st_front_1st_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="98,0,34,79" offsetX="-17.0625" offsetY="-12.5625" name="2-boxing_glove-1_last_front_last_front.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="54,0,44,76" offsetX="-99.5625" offsetY="-32.3125" name="2-boxing_glove-1_1st_back_1st_back.png" scaleX="3.99938"/>
+  <sprite scaleY="3.99938" angleDegrees="0" rect="0,0,54,60" offsetX="-9.9375" offsetY="7.5" name="2-boxing_glove-1_last_back_last_back.png" scaleX="3.99938"/>
+ </spritesheet>
+</spritesheets>

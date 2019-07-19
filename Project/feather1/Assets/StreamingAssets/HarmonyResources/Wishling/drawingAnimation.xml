@@ -1,0 +1,1433 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="Idle_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="40" name="22-Wishling_Hand_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="40" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="40" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="40" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="40" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="40" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="40" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="40" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="40" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="40" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="40" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="40" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="40" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="40" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="40" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="40" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="40" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="40" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="40" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="40" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="40" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="40" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="40" name="23-Wishling_Hand_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="40" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="40" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="2" name="22-Wishling_Hand_R-1.png"/>
+   <drw frame="3" repeat="7" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="9" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="9" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="9" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="9" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="9" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="9" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="9" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="9" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="9" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="9" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="9" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="9" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="9" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="9" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="9" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="9" name="21-Wishling_Foot_R-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="9" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="9" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="9" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="9" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="9" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="8" name="23-Wishling_Hand_L-1.png"/>
+   <drw frame="9" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="9" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="9" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Land_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="11" name="22-Wishling_Hand_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="11" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="11" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="11" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="11" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="11" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="6" name="40-MidEyelash-1.png"/>
+   <drw frame="9" repeat="3" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="11" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="11" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="11" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="11" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="11" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="11" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="11" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="11" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="9" name="21-Wishling_Foot_R-2.png"/>
+   <drw frame="10" repeat="2" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="11" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="11" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="8" name="20-Wishling_Foot_L-2.png"/>
+   <drw frame="9" repeat="3" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="11" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="11" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="4" name="23-Wishling_Hand_L-2.png"/>
+   <drw frame="5" repeat="7" name="23-Wishling_Hand_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="11" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Run_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="8" name="22-Wishling_Hand_R-1.png"/>
+   <drw frame="9" repeat="5" name="22-Wishling_Hand_R-2.png"/>
+   <drw frame="14" repeat="3" name="22-Wishling_Hand_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="16" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="16" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="16" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="16" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="16" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="16" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="16" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="16" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="16" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="16" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="16" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="16" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="16" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="16" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="16" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="8" name="21-Wishling_Foot_R-2.png"/>
+   <drw frame="9" repeat="4" name="21-Wishling_Foot_R-3.png"/>
+   <drw frame="13" repeat="4" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="16" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="16" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="4" name="20-Wishling_Foot_L-3.png"/>
+   <drw frame="5" repeat="12" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="16" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="16" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="4" name="23-Wishling_Hand_L-2.png"/>
+   <drw frame="5" repeat="12" name="23-Wishling_Hand_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="16" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="16" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Falling_Idle_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="10" name="22-Wishling_Hand_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="10" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="10" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="10" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="10" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="10" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="10" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="10" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="10" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="10" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="10" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="10" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="10" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="10" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="10" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="10" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="10" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="10" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="10" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="10" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="10" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="10" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="10" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="10" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="10" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_to_Fall_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="2" name="22-Wishling_Hand_R-2.png"/>
+   <drw frame="3" repeat="7" name="22-Wishling_Hand_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="9" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="9" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="9" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="9" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="9" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="9" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="9" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="9" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="9" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="9" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="9" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="9" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="9" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="9" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="9" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="4" name="21-Wishling_Foot_R-3.png"/>
+   <drw frame="5" repeat="5" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="9" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="9" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="6" name="20-Wishling_Foot_L-3.png"/>
+   <drw frame="7" repeat="3" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="9" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="9" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="9" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="9" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="9" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_Idle_Top">
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="14" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="14" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="14" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="14" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="14" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="14" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="14" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="14" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="14" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="14" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="14" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="14" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="14" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="14" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="14" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="14" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="14" name="21-Wishling_Foot_R-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="14" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="14" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="14" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="14" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="14" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="14" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="14" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="14" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Grab_Top">
+  <drawing node="Wishling_Hold" name="47-Wishling_Hold">
+   <drw frame="1" repeat="8" name="47-Wishling_Hold-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="3" name="22-Wishling_Hand_R-2.png"/>
+   <drw frame="4" repeat="3" name="22-Wishling_Hand_R-3.png"/>
+   <drw frame="7" repeat="2" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="8" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="8" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="8" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="8" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="8" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="8" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="8" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="8" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="8" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="8" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="8" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="8" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="8" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="8" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="8" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="8" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="8" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="8" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="8" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="8" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="3" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="8" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Falling_Idle_Hold_Top">
+  <drawing node="Wishling_Hold" name="48-Wishling_Hold">
+   <drw frame="1" repeat="10" name="48-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="10" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="10" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="10" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="10" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="10" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="10" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="10" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="10" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="10" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="10" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="10" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="10" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="10" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="10" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="10" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="10" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="10" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="10" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="10" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="10" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="10" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="10" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="10" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="10" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Grab_Miss_Top">
+  <drawing node="Wishling_Hold" name="49-Wishling_Hold">
+   <drw frame="1" repeat="6" name="49-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" name="22-Wishling_Hand_R-3.png"/>
+   <drw frame="2" repeat="5" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="6" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="6" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="6" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="6" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="6" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="6" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="2" name="40-MidEyelash-1.png"/>
+   <drw frame="5" repeat="2" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="6" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="6" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="6" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="6" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="6" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="6" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="6" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="6" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="6" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="6" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="6" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="6" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="6" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="6" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="2" repeat="5" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="6" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="6" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Idle_Hold_Top">
+  <drawing node="Wishling_Hold" name="46-Wishling_Hold">
+   <drw frame="1" repeat="40" name="46-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="40" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="40" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="40" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="40" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="40" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="40" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="40" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="40" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="40" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="40" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="40" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="40" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="40" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="40" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="40" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="40" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="40" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="40" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="40" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="40" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="40" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="40" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="40" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="40" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_Grab_Top">
+  <drawing node="Wishling_Hold" name="51-Wishling_Hold">
+   <drw frame="1" repeat="11" name="51-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="4" name="22-Wishling_Hand_R-2.png"/>
+   <drw frame="5" repeat="2" name="22-Wishling_Hand_R-3.png"/>
+   <drw frame="7" repeat="5" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="11" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="11" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="11" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="11" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="11" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="3" name="40-MidEyelash-1.png"/>
+   <drw frame="6" repeat="6" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="11" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="11" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="11" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="11" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="11" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="11" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="11" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="11" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="11" name="21-Wishling_Foot_R-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="11" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="11" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="11" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="11" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="11" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="4" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="11" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_Hold_Top">
+  <drawing node="Wishling_Hold" name="51-Wishling_Hold">
+   <drw frame="1" repeat="8" name="51-Wishling_Hold-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="8" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="8" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="8" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="8" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="8" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="8" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="8" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="8" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="8" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="8" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="8" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="8" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="8" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="8" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="8" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="8" name="21-Wishling_Foot_R-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="8" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="8" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="8" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="8" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="8" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="8" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_Idle_Hold_Top">
+  <drawing node="Wishling_Hold" name="51-Wishling_Hold">
+   <drw frame="1" repeat="14" name="51-Wishling_Hold-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="14" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="14" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="14" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="14" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="14" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="14" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="14" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="14" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="14" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="14" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="14" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="14" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="14" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="14" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="14" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="14" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="14" name="21-Wishling_Foot_R-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="14" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="14" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="14" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="14" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="14" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="14" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="14" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Jump_to_Fall_Hold_Top">
+  <drawing node="Wishling_Hold" name="52-Wishling_Hold">
+   <drw frame="1" repeat="8" name="52-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="8" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="8" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="8" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="8" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="8" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="8" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="8" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="8" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="8" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="8" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="8" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="8" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="8" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="8" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="8" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="4" name="21-Wishling_Foot_R-3.png"/>
+   <drw frame="5" repeat="4" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="8" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="8" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="6" name="20-Wishling_Foot_L-3.png"/>
+   <drw frame="7" repeat="2" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="8" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="8" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="8" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="8" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Land_Hold_Top">
+  <drawing node="Wishling_Hold" name="53-Wishling_Hold">
+   <drw frame="1" repeat="11" name="53-Wishling_Hold-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="11" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="11" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="11" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="11" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="11" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="11" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="6" name="40-MidEyelash-1.png"/>
+   <drw frame="9" repeat="3" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="11" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="11" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="11" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="11" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="11" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="11" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="11" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="11" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="9" name="21-Wishling_Foot_R-2.png"/>
+   <drw frame="10" repeat="2" name="21-Wishling_Foot_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="11" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="11" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="8" name="20-Wishling_Foot_L-2.png"/>
+   <drw frame="9" repeat="3" name="20-Wishling_Foot_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="11" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="11" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="11" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="11" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Run_Hold_Top">
+  <drawing node="Wishling_Hold" name="45-Wishling_Hold">
+   <drw frame="1" repeat="16" name="45-Wishling_Hold-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="16" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="16" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="16" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="16" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="16" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="16" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="16" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="16" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="16" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="16" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="16" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="16" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="16" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="16" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="16" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="16" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="8" name="21-Wishling_Foot_R-2.png"/>
+   <drw frame="9" repeat="4" name="21-Wishling_Foot_R-3.png"/>
+   <drw frame="13" repeat="4" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="16" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="16" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="4" name="20-Wishling_Foot_L-3.png"/>
+   <drw frame="5" repeat="12" name="20-Wishling_Foot_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="16" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="16" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="16" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="16" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Run_Grab_Top">
+  <drawing node="Wishling_Hold" name="54-Wishling_Hold">
+   <drw frame="1" repeat="5" name="54-Wishling_Hold-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_R" name="22-Wishling_Hand_R">
+   <drw frame="1" repeat="2" name="22-Wishling_Hand_R-2.png"/>
+   <drw frame="3" repeat="2" name="22-Wishling_Hand_R-3.png"/>
+   <drw frame="5" name="22-Wishling_Hand_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_R" name="15-Wishling_Arm_R">
+   <drw frame="1" repeat="5" name="15-Wishling_Arm_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Nose" name="31-Wishling_Nose">
+   <drw frame="1" repeat="5" name="31-Wishling_Nose-1.png"/>
+  </drawing>
+  <drawing node="Horn" name="38-Horn">
+   <drw frame="1" repeat="5" name="38-Horn-1.png"/>
+  </drawing>
+  <drawing node="FrontEyebrow" name="36-FrontEyebrow">
+   <drw frame="1" repeat="5" name="36-FrontEyebrow-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Front" name="32-Upper_Eyelash_Back">
+   <drw frame="1" repeat="5" name="32-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+  <drawing node="Front_Eye" name="41-Front_Eye">
+   <drw frame="1" repeat="5" name="41-Front_Eye-1.png"/>
+  </drawing>
+  <drawing node="MidEyelash" name="40-MidEyelash">
+   <drw frame="1" repeat="5" name="40-MidEyelash-1.png"/>
+  </drawing>
+  <drawing node="Lower_Eyelash" name="30-Lower_Eyelash">
+   <drw frame="1" repeat="5" name="30-Lower_Eyelash-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_R" name="7-Wishling_Ear_R">
+   <drw frame="1" repeat="5" name="7-Wishling_Ear_R-1.png"/>
+  </drawing>
+  <drawing node="HeadLine" name="29-HeadLine">
+   <drw frame="1" repeat="5" name="29-HeadLine-1.png"/>
+  </drawing>
+  <drawing node="Wishling_head_1" name="37-Wishling_head">
+   <drw frame="1" repeat="5" name="37-Wishling_head-1.png"/>
+  </drawing>
+  <drawing node="EyePatch_Upper" name="39-EyePatch_Upper">
+   <drw frame="1" repeat="5" name="39-EyePatch_Upper-1.png"/>
+  </drawing>
+  <drawing node="Pupil" name="34-Pupil">
+   <drw frame="1" repeat="5" name="34-Pupil-1.png"/>
+  </drawing>
+  <drawing node="Back_Eye" name="33-Back_Eye">
+   <drw frame="1" repeat="5" name="33-Back_Eye-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Ear_L" name="8-Wishling_Ear_L">
+   <drw frame="1" repeat="5" name="8-Wishling_Ear_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_R" name="21-Wishling_Foot_R">
+   <drw frame="1" repeat="4" name="21-Wishling_Foot_R-3.png"/>
+   <drw frame="5" name="21-Wishling_Foot_R-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_R" name="18-Wishling_Leg_R">
+   <drw frame="1" repeat="5" name="18-Wishling_Leg_R-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Torso" name="44-Wishling_Torso">
+   <drw frame="1" repeat="5" name="44-Wishling_Torso-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Foot_L" name="20-Wishling_Foot_L">
+   <drw frame="1" repeat="5" name="20-Wishling_Foot_L-3.png"/>
+  </drawing>
+  <drawing node="Wishling_Leg_L" name="19-Wishling_Leg_L">
+   <drw frame="1" repeat="5" name="19-Wishling_Leg_L-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Tail" name="17-Wishling_Tail">
+   <drw frame="1" repeat="5" name="17-Wishling_Tail-1.png"/>
+  </drawing>
+  <drawing node="Wishling_Hand_L" name="23-Wishling_Hand_L">
+   <drw frame="1" repeat="2" name="23-Wishling_Hand_L-2.png"/>
+  </drawing>
+  <drawing node="Wishling_Arm_L" name="16-Wishling_Arm_L">
+   <drw frame="1" repeat="5" name="16-Wishling_Arm_L-1.png"/>
+  </drawing>
+  <drawing node="Upper_Eyelash_Back" name="42-Upper_Eyelash_Back">
+   <drw frame="1" repeat="5" name="42-Upper_Eyelash_Back-1.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

@@ -1,0 +1,7 @@
+<stages>
+ <stage name="saw_saw">
+  <node groupId="0" skinId="0" name="saw_Handle" drwId="1"/>
+  <node groupId="0" skinId="0" name="saw_saw" drwId="2"/>
+  <play drawingAnimation="saw_Top" name="Top" skeleton="Top" animation="saw_Top"/>
+ </stage>
+</stages>

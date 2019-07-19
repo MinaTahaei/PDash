@@ -1,0 +1,96 @@
+<skeletons>
+ <skeleton name="space_duck">
+  <nodes>
+   <peg name="space_duck_MASTER_PEG"/>
+   <peg name="space_duck_UPPER_body_p"/>
+   <peg name="space_duck_FULL_arm_01"/>
+   <peg name="space_duck_hand_01-P"/>
+   <read name="space_duck_hand_01"/>
+   <peg name="space_duck_arm_01-P"/>
+   <read name="space_duck_arm_01"/>
+   <peg name="space_duck_body-P"/>
+   <read name="space_duck_body"/>
+   <read name="space_duck_body_1"/>
+   <peg name="space_duck_HEAD_peg"/>
+   <peg name="space_duck_facial_features"/>
+   <peg name="space_duck_ear_piece-P"/>
+   <read name="space_duck_ear_piece"/>
+   <peg name="space_duck_beak-P"/>
+   <read name="space_duck_beak"/>
+   <peg name="space_duck_FULL_eye_01"/>
+   <peg name="space_duck_pupil_01-P"/>
+   <read name="space_duck_pupil_01"/>
+   <peg name="space_duck_eye_01-P"/>
+   <read name="space_duck_eye_01"/>
+   <peg name="space_duck_FULL_eye_02"/>
+   <peg name="space_duck_pupil_02-P"/>
+   <read name="space_duck_pupil_02"/>
+   <peg name="space_duck_eye02-P"/>
+   <read name="space_duck_eye02"/>
+   <peg name="space_duck_head-P"/>
+   <read name="space_duck_head"/>
+   <peg name="space_duck_antenna-P"/>
+   <read name="space_duck_antenna"/>
+   <peg name="space_duck_FULL_arm_02"/>
+   <peg name="space_duck_hand_02-P"/>
+   <read name="space_duck_gun_details"/>
+   <peg name="space_duck_glow-P"/>
+   <read name="space_duck_glow"/>
+   <read name="space_duck_hand_02"/>
+   <read name="space_duck_hook_gun"/>
+   <peg name="space_duck_arm_02-P"/>
+   <read name="space_duck_arm_02"/>
+   <peg name="space_duck_BOTH_legs"/>
+   <peg name="space_duck_legs_01-P"/>
+   <read name="space_duck_legs_01"/>
+   <peg name="space_duck_legs_02-P"/>
+   <read name="space_duck_legs_02"/>
+  </nodes>
+  <links>
+   <link in="space_duck" out="space_duck_MASTER_PEG"/>
+   <link in="space_duck_MASTER_PEG" out="space_duck_UPPER_body_p"/>
+   <link in="space_duck_UPPER_body_p" out="space_duck_FULL_arm_01"/>
+   <link in="space_duck_FULL_arm_01" out="space_duck_hand_01-P"/>
+   <link in="space_duck_hand_01-P" out="space_duck_hand_01"/>
+   <link in="space_duck_FULL_arm_01" out="space_duck_arm_01-P"/>
+   <link in="space_duck_arm_01-P" out="space_duck_arm_01"/>
+   <link in="space_duck_UPPER_body_p" out="space_duck_body-P"/>
+   <link in="space_duck_body-P" out="space_duck_body"/>
+   <link in="space_duck_body-P" out="space_duck_body_1"/>
+   <link in="space_duck_UPPER_body_p" out="space_duck_HEAD_peg"/>
+   <link in="space_duck_HEAD_peg" out="space_duck_facial_features"/>
+   <link in="space_duck_facial_features" out="space_duck_ear_piece-P"/>
+   <link in="space_duck_ear_piece-P" out="space_duck_ear_piece"/>
+   <link in="space_duck_facial_features" out="space_duck_beak-P"/>
+   <link in="space_duck_beak-P" out="space_duck_beak"/>
+   <link in="space_duck_facial_features" out="space_duck_FULL_eye_01"/>
+   <link in="space_duck_FULL_eye_01" out="space_duck_pupil_01-P"/>
+   <link in="space_duck_pupil_01-P" out="space_duck_pupil_01"/>
+   <link in="space_duck_FULL_eye_01" out="space_duck_eye_01-P"/>
+   <link in="space_duck_eye_01-P" out="space_duck_eye_01"/>
+   <link in="space_duck_facial_features" out="space_duck_FULL_eye_02"/>
+   <link in="space_duck_FULL_eye_02" out="space_duck_pupil_02-P"/>
+   <link in="space_duck_pupil_02-P" out="space_duck_pupil_02"/>
+   <link in="space_duck_FULL_eye_02" out="space_duck_eye02-P"/>
+   <link in="space_duck_eye02-P" out="space_duck_eye02"/>
+   <link in="space_duck_HEAD_peg" out="space_duck_head-P"/>
+   <link in="space_duck_head-P" out="space_duck_head"/>
+   <link in="space_duck_HEAD_peg" out="space_duck_antenna-P"/>
+   <link in="space_duck_antenna-P" out="space_duck_antenna"/>
+   <link in="space_duck_UPPER_body_p" out="space_duck_FULL_arm_02"/>
+   <link in="space_duck_FULL_arm_02" out="space_duck_hand_02-P"/>
+   <link in="space_duck_hand_02-P" out="space_duck_gun_details"/>
+   <link in="space_duck_hand_02-P" out="space_duck_glow-P"/>
+   <link in="space_duck_glow-P" out="space_duck_glow"/>
+   <link in="space_duck_hand_02-P" out="space_duck_hand_02"/>
+   <link in="space_duck_hand_02" out="space_duck_hook_gun"/>
+   <link in="space_duck_FULL_arm_02" out="space_duck_arm_02-P"/>
+   <link in="space_duck_arm_02-P" out="space_duck_arm_02"/>
+   <link in="space_duck_MASTER_PEG" out="space_duck_BOTH_legs"/>
+   <link in="space_duck_BOTH_legs" out="space_duck_legs_01-P"/>
+   <link in="space_duck_legs_01-P" out="space_duck_legs_01"/>
+   <link in="space_duck_BOTH_legs" out="space_duck_legs_02-P"/>
+   <link in="space_duck_legs_02-P" out="space_duck_legs_02"/>
+  </links>
+ </skeleton>
+</skeletons>

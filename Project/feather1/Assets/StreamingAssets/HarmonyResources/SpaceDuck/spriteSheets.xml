@@ -1,0 +1,65 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="default" name="sheet_space_duck" filename="spriteSheets/sheet_space_duck-default.png">
+  <sprite scaleY="1" rect="1821,75,218,243" offsetX="148.012" offsetY="27.6808" name="15-hand_02-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1643,75,178,207" offsetX="-35.2502" offsetY="43.7674" name="4-head-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1535,75,108,176" offsetX="7.69972" offsetY="-81.1685" name="3-body-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1414,75,121,123" offsetX="65.0421" offsetY="-160.794" name="12-legs_02-6.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1278,75,136,118" offsetX="128.766" offsetY="59.859" name="18-glow-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1156,75,122,110" offsetX="-25.1516" offsetY="-181.527" name="11-legs_01-7.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1033,75,123,104" offsetX="47.5675" offsetY="-165.705" name="11-legs_01-6.png" scaleX="1"/>
+  <sprite scaleY="1" rect="926,75,107,98" offsetX="71.6744" offsetY="-148.466" name="12-legs_02-4.png" scaleX="1"/>
+  <sprite scaleY="1" rect="805,75,121,97" offsetX="-142.198" offsetY="147.931" name="10-antenna-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="698,75,107,95" offsetX="55.1543" offsetY="-161.331" name="11-legs_01-2.png" scaleX="1"/>
+  <sprite scaleY="1" rect="590,75,108,94" offsetX="-31.1286" offsetY="-173.647" name="11-legs_01-4.png" scaleX="1"/>
+  <sprite scaleY="1" rect="493,75,97,83" offsetX="-2.37461" offsetY="-177.005" name="11-legs_01-5.png" scaleX="1"/>
+  <sprite scaleY="1" rect="372,75,121,82" offsetX="0.22821" offsetY="-103.762" name="14-hand_01-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="257,75,115,82" offsetX="-21.8711" offsetY="-169.073" name="12-legs_02-7.png" scaleX="1"/>
+  <sprite scaleY="1" rect="157,75,100,81" offsetX="76.2559" offsetY="-178.145" name="12-legs_02-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="53,75,104,77" offsetX="36.3544" offsetY="-177.815" name="12-legs_02-5.png" scaleX="1"/>
+  <sprite scaleY="1" rect="0,75,53,45" offsetX="8.96737" offsetY="125.268" name="5-eye02-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1925,0,114,75" offsetX="-48.1759" offsetY="-175.456" name="11-legs_01-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1802,0,123,69" offsetX="-142.184" offsetY="135.253" name="10-antenna-2.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1733,0,69,69" offsetX="107.542" offsetY="47.1851" name="17-gun_details-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1621,0,112,64" offsetX="-31.1863" offsetY="-160.278" name="12-legs_02-2.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1514,0,107,64" offsetX="30.8801" offsetY="-174.144" name="11-legs_01-3.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1439,0,75,61" offsetX="-19.4741" offsetY="-81.6165" name="13-arm_01-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1369,0,70,56" offsetX="-90.3802" offsetY="63.4207" name="8-ear_piece-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1231,0,138,53" offsetX="35.181" offsetY="91.6594" name="6-beak-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1151,0,80,46" offsetX="37.3298" offsetY="-64.0845" name="16-arm_02-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1092,0,59,44" offsetX="-30.5753" offsetY="114.711" name="2-eye_01-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1067,0,25,22" offsetX="5.70825" offsetY="123.841" name="9-pupil_02-1.png" scaleX="1"/>
+  <sprite scaleY="1" rect="1043,0,24,20" offsetX="-25.3125" offsetY="112.98" name="7-pupil_01-1.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="low" name="sheet_space_duck" filename="spriteSheets/sheet_space_duck-low.png">
+  <sprite scaleY="2" rect="1569,0,115,127" offsetX="74.006" offsetY="13.8404" name="15-hand_02-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1474,0,95,109" offsetX="-17.6251" offsetY="21.8837" name="4-head-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1414,0,60,94" offsetX="3.84986" offsetY="-40.5842" name="3-body-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1348,0,66,67" offsetX="32.521" offsetY="-80.3969" name="12-legs_02-6.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1274,0,74,65" offsetX="64.3832" offsetY="29.9295" name="18-glow-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1207,0,67,61" offsetX="-12.5758" offsetY="-90.7633" name="11-legs_01-7.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1140,0,67,58" offsetX="23.7838" offsetY="-82.8527" name="11-legs_01-6.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1081,0,59,55" offsetX="35.8372" offsetY="-74.2331" name="12-legs_02-4.png" scaleX="2"/>
+  <sprite scaleY="2" rect="1015,0,66,54" offsetX="-71.0989" offsetY="73.9654" name="10-antenna-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="955,0,60,53" offsetX="-15.5643" offsetY="-86.8235" name="11-legs_01-4.png" scaleX="2"/>
+  <sprite scaleY="2" rect="896,0,59,53" offsetX="27.5771" offsetY="-80.6653" name="11-legs_01-2.png" scaleX="2"/>
+  <sprite scaleY="2" rect="830,0,66,47" offsetX="0.114105" offsetY="-51.8812" name="14-hand_01-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="767,0,63,47" offsetX="-10.9355" offsetY="-84.5365" name="12-legs_02-7.png" scaleX="2"/>
+  <sprite scaleY="2" rect="713,0,54,47" offsetX="-1.1873" offsetY="-88.5024" name="11-legs_01-5.png" scaleX="2"/>
+  <sprite scaleY="2" rect="657,0,56,46" offsetX="38.1279" offsetY="-89.0724" name="12-legs_02-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="599,0,58,44" offsetX="18.1772" offsetY="-88.9076" name="12-legs_02-5.png" scaleX="2"/>
+  <sprite scaleY="2" rect="536,0,63,43" offsetX="-24.0879" offsetY="-87.7281" name="11-legs_01-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="469,0,67,40" offsetX="-71.0921" offsetY="67.6266" name="10-antenna-2.png" scaleX="2"/>
+  <sprite scaleY="2" rect="429,0,40,40" offsetX="53.7708" offsetY="23.5925" name="17-gun_details-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="367,0,62,38" offsetX="-15.5931" offsetY="-80.1388" name="12-legs_02-2.png" scaleX="2"/>
+  <sprite scaleY="2" rect="308,0,59,38" offsetX="15.4401" offsetY="-87.0722" name="11-legs_01-3.png" scaleX="2"/>
+  <sprite scaleY="2" rect="265,0,43,36" offsetX="-9.73703" offsetY="-40.8083" name="13-arm_01-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="224,0,41,34" offsetX="-45.1901" offsetY="31.7104" name="8-ear_piece-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="149,0,75,32" offsetX="17.5905" offsetY="45.8297" name="6-beak-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="103,0,46,29" offsetX="18.6649" offsetY="-32.0423" name="16-arm_02-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="68,0,35,28" offsetX="-15.2876" offsetY="57.3553" name="2-eye_01-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="36,0,32,28" offsetX="4.48369" offsetY="62.6338" name="5-eye02-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="18,0,18,17" offsetX="2.85413" offsetY="61.9206" name="9-pupil_02-1.png" scaleX="2"/>
+  <sprite scaleY="2" rect="0,0,18,16" offsetX="-12.6562" offsetY="56.4902" name="7-pupil_01-1.png" scaleX="2"/>
+ </spritesheet>
+</spritesheets>

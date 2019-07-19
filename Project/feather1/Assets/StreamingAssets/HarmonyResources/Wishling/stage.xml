@@ -1,0 +1,74 @@
+<stages>
+ <stage name="Wishling_Idle">
+  <play drawingAnimation="Idle_Top" name="play_Top" skeleton="Top_6" animation="Idle_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump">
+  <play drawingAnimation="Jump_Top" name="play_Top" skeleton="Top_4" animation="Jump_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Land">
+  <play drawingAnimation="Land_Top" name="play_Top" skeleton="Top_4" animation="Land_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Run">
+  <play drawingAnimation="Run_Top" name="play_Top" skeleton="Top_4" animation="Run_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Falling_Idle">
+  <play drawingAnimation="Falling_Idle_Top" name="play_Top" skeleton="Top_4" animation="Falling_Idle_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_to_Fall">
+  <play drawingAnimation="Jump_to_Fall_Top" name="play_Top" skeleton="Top_4" animation="Jump_to_Fall_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_Idle">
+  <play drawingAnimation="Jump_Idle_Top" name="play_Top" skeleton="Top_4" animation="Jump_Idle_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Grab">
+  <play drawingAnimation="Grab_Top" name="play_Top" skeleton="Top_4" animation="Grab_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Falling_Idle_Hold">
+  <play drawingAnimation="Falling_Idle_Hold_Top" name="play_Top" skeleton="Top_4" animation="Falling_Idle_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Grab_Miss">
+  <play drawingAnimation="Grab_Miss_Top" name="play_Top" skeleton="Top_4" animation="Grab_Miss_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Idle_Hold">
+  <play drawingAnimation="Idle_Hold_Top" name="play_Top" skeleton="Top_6" animation="Idle_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_Grab">
+  <play drawingAnimation="Jump_Grab_Top" name="play_Top" skeleton="Top_4" animation="Jump_Grab_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_Hold">
+  <play drawingAnimation="Jump_Hold_Top" name="play_Top" skeleton="Top_4" animation="Jump_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_Idle_Hold">
+  <play drawingAnimation="Jump_Idle_Hold_Top" name="play_Top" skeleton="Top_4" animation="Jump_Idle_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Jump_to_Fall_Hold">
+  <play drawingAnimation="Jump_to_Fall_Hold_Top" name="play_Top" skeleton="Top_4" animation="Jump_to_Fall_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Land_Hold">
+  <play drawingAnimation="Land_Hold_Top" name="play_Top" skeleton="Top_4" animation="Land_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Run_Hold">
+  <play drawingAnimation="Run_Hold_Top" name="play_Top" skeleton="Top_4" animation="Run_Hold_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+ <stage name="Wishling_Run_Grab">
+  <play drawingAnimation="Run_Grab_Top" name="play_Top" skeleton="Top_4" animation="Run_Grab_Top"/>
+  <anchor node="Wishling_Hold" play="play_Top"/>
+ </stage>
+</stages>

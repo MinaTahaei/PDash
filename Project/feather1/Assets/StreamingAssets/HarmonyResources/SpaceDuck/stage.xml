@@ -1,0 +1,10 @@
+<stages>
+ <stage name="SD_idle_SD_idle">
+  <play drawingAnimation="SD_idle_space_duck" skeleton="space_duck" animation="SD_idle_space_duck"/>
+  <anchor node="space_duck_hook_gun" play="space_duck"/>
+ </stage>
+ <stage name="SD_run_SD_run">
+  <play drawingAnimation="SD_run_space_duck" skeleton="space_duck" animation="SD_run_space_duck"/>
+  <anchor node="space_duck_hook_gun" play="space_duck"/>
+ </stage>
+</stages>

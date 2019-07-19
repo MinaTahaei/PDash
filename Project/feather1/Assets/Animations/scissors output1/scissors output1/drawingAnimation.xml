@@ -1,0 +1,40 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="scissors_Top">
+  <drawing node="scissors_glove_down_" name="2-scissors" drwId="1">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_glove_down__glove_down_.png"/>
+  </drawing>
+  <drawing node="scissors_scissor_down" name="2-scissors" drwId="2">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_scissor_down_scissor_down.png"/>
+  </drawing>
+  <drawing node="scissors_glove_down_under_scissor" name="2-scissors" drwId="3">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_glove_down_under_scissor_glove_down_under_scissor.png"/>
+  </drawing>
+  <drawing node="scissors_left_down" name="2-scissors" drwId="4">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_left_down_left_down.png"/>
+  </drawing>
+  <drawing node="scissors_mid_down" name="2-scissors" drwId="5">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_mid_down_mid_down.png"/>
+  </drawing>
+  <drawing node="scissors_right_down" name="2-scissors" drwId="6">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_right_down_right_down.png"/>
+  </drawing>
+  <drawing node="scissors_glove_up" name="2-scissors" drwId="7">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_glove_up_glove_up.png"/>
+  </drawing>
+  <drawing node="scissors_scissor_up" name="2-scissors" drwId="8">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_scissor_up_scissor_up.png"/>
+  </drawing>
+  <drawing node="scissors_glove_up_under_scissor" name="2-scissors" drwId="9">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_glove_up_under_scissor_glove_up_under_scissor.png"/>
+  </drawing>
+  <drawing node="scissors_left_up" name="2-scissors" drwId="10">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_left_up_left_up.png"/>
+  </drawing>
+  <drawing node="scissors_mid_up" name="2-scissors" drwId="11">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_mid_up_mid_up.png"/>
+  </drawing>
+  <drawing node="scissors_right_up" name="2-scissors" drwId="12">
+   <drw skinId="0" frame="1" repeat="40" name="2-scissors-1_right_up_right_up.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

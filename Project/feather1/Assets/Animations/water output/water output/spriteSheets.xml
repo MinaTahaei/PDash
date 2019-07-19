@@ -1,0 +1,19 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="my game" width="4131" height="1089" name="sheet_Top" filename="spriteSheets/sheet_Top-my game.png">
+  <sprite scaleY="1.99992" angleDegrees="0" rect="3615,0,516,1089" offsetX="-136.5" offsetY="9.5" name="3-water-1_waterfall2_waterfall2.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="3094,0,521,1086" offsetX="-139.75" offsetY="10.25" name="3-water-1_whaterfall_whaterfall.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="2484,0,610,543" offsetX="-96.5" offsetY="502" name="3-water-1_half_pipe_half_pipe.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="1628,0,856,426" offsetX="-89.5" offsetY="-560.5" name="3-water-1_board_board.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="959,0,669,247" offsetX="-115.25" offsetY="-538.75" name="3-water-1_water_on_the_board_water_on_the_board.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="532,0,427,204" offsetX="-37.25" offsetY="-543.75" name="3-water-1_wave_wave.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="312,0,220,177" offsetX="13" offsetY="-545.5" name="4-water-1_l_wave_l_wave.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="188,0,124,154" offsetX="106" offsetY="-534.25" name="4-water-1_r_wave_r_wave.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="159,0,29,75" offsetX="229" offsetY="-600.25" name="3-water-1_1st_down_going_drop_1st_down_going_drop.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="105,0,54,61" offsetX="18.25" offsetY="-501.5" name="3-water-1_left_going_drop_left_going_drop.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="52,0,53,51" offsetX="108" offsetY="-491.25" name="3-water-1_right_going_drop_right_going_drop.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="25,0,27,47" offsetX="229" offsetY="-665" name="3-water-1_2nd_down_going_drop_2nd_down_going_drop.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="0,0,25,46" offsetX="227.5" offsetY="-715.75" name="3-water-1_3rd_down_going_drop_3rd_down_going_drop.png" scaleX="1.99992"/>
+  <sprite scaleY="1.99992" angleDegrees="0" rect="312,0,220,177" offsetX="13" offsetY="-545.5" name="5-water-1_l_wave_l_wave.png" scaleX="1.99992"/>
+ </spritesheet>
+</spritesheets>

@@ -1,0 +1,10 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="saw_Top">
+  <drawing node="saw_Handle" name="2-saw" drwId="1">
+   <drw skinId="0" frame="1" repeat="4" name="2-saw-1_Handle_Handle.png"/>
+  </drawing>
+  <drawing node="saw_saw" name="2-saw" drwId="2">
+   <drw skinId="0" frame="1" repeat="4" name="2-saw-1_saw_Saw.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>
