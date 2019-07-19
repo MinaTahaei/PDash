@@ -1,0 +1,21 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="my game" width="2365" height="489" name="sheet_Top" filename="spriteSheets/sheet_Top-my game.png">
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1952,0,413,489" offsetX="-10.9037" offsetY="-92.9185" name="2-babybird-18.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1663,0,289,381" offsetX="8.2963" offsetY="205.511" name="2-babybird-14.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1384,0,279,304" offsetX="-84.8593" offsetY="34.3704" name="2-babybird-13.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="941,0,443,300" offsetX="251.97" offsetY="28.9185" name="2-babybird-16.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="457,0,484,296" offsetX="-249.363" offsetY="54.0444" name="2-babybird-15.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="265,0,192,99" offsetX="-46.4593" offsetY="-183.23" name="2-babybird-17.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="114,0,151,73" offsetX="8.77037" offsetY="227.556" name="2-babybird-11.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="0,0,114,60" offsetX="8.77037" offsetY="170.193" name="2-babybird-12.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1952,0,413,489" offsetX="-10.9037" offsetY="-92.9185" name="2-babybird-1_body_body.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1384,0,279,304" offsetX="-84.8593" offsetY="34.3704" name="2-babybird-1_feather_feather.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="457,0,484,296" offsetX="-249.363" offsetY="54.0444" name="2-babybird-1_l_wing_l_wing.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="114,0,151,73" offsetX="8.77037" offsetY="227.556" name="2-babybird-1_happy_eyes_happy_r_eye.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="1663,0,289,381" offsetX="8.2963" offsetY="205.511" name="2-babybird-1_head_head_.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="265,0,192,99" offsetX="-46.4593" offsetY="-183.23" name="2-babybird-1_legs_r_leg.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="941,0,443,300" offsetX="251.97" offsetY="28.9185" name="2-babybird-1_r_wing_r_wing.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="0,0,114,60" offsetX="8.77037" offsetY="170.193" name="2-babybird-1_beak_beak.png" scaleX="2.00016"/>
+ </spritesheet>
+</spritesheets>

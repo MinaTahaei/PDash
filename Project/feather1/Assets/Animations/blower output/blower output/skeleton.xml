@@ -1,0 +1,40 @@
+<skeletons>
+ <skeleton name="Top">
+  <nodes>
+   <peg id="0" name="blower_seperate_mid_head-P"/>
+   <read id="1" name="blower_seperate_mid_head"/>
+   <peg id="2" name="blower_seperate_mid_up_handle-P"/>
+   <read id="3" name="blower_seperate_mid_up_handle"/>
+   <peg id="4" name="blower_seperate_mid_down_handle-P"/>
+   <read id="5" name="blower_seperate_mid_down_handle"/>
+   <peg id="6" name="blower_seperate_mid_7th_mid-P"/>
+   <read id="7" name="blower_seperate_mid_7th_mid"/>
+   <peg id="8" name="blower_seperate_mid_5th_mid-P"/>
+   <read id="9" name="blower_seperate_mid_5th_mid"/>
+   <peg id="10" name="blower_seperate_mid_3rd_mid-P"/>
+   <read id="11" name="blower_seperate_mid_3rd_mid"/>
+   <peg id="12" name="blower_seperate_mid_1st_mid-P"/>
+   <read id="13" name="blower_seperate_mid_1st_mid"/>
+   <peg id="14" name="blower_seperate_mid_1st_edge-P"/>
+   <read id="15" name="blower_seperate_mid_1st_edge"/>
+  </nodes>
+  <links>
+   <link in="Top" out="0"/>
+   <link in="0" out="1"/>
+   <link in="0" out="2"/>
+   <link in="2" out="3"/>
+   <link in="0" out="4"/>
+   <link in="4" out="5"/>
+   <link in="0" out="6"/>
+   <link in="6" out="7"/>
+   <link in="0" out="8"/>
+   <link in="8" out="9"/>
+   <link in="0" out="10"/>
+   <link in="10" out="11"/>
+   <link in="0" out="12"/>
+   <link in="12" out="13"/>
+   <link in="0" out="14"/>
+   <link in="14" out="15"/>
+  </links>
+ </skeleton>
+</skeletons>

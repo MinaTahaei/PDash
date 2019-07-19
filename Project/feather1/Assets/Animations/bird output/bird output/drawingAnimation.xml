@@ -1,0 +1,44 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="bird_Top">
+  <drawing node="babybird_happy_eyes" name="2-babybird" drwId="1">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_happy_eyes_happy_r_eye.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-11.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_happy_eyes_happy_r_eye.png"/>
+  </drawing>
+  <drawing node="babybird_beak" name="2-babybird" drwId="2">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_beak_beak.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-12.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_beak_beak.png"/>
+  </drawing>
+  <drawing node="babybird_feather" name="2-babybird" drwId="3">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_feather_feather.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-13.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_feather_feather.png"/>
+  </drawing>
+  <drawing node="babybird_head" name="2-babybird" drwId="4">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_head_head_.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-14.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_head_head_.png"/>
+  </drawing>
+  <drawing node="babybird_l_wing" name="2-babybird" drwId="5">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_l_wing_l_wing.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-15.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_l_wing_l_wing.png"/>
+  </drawing>
+  <drawing node="babybird_r_wing" name="2-babybird" drwId="6">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_r_wing_r_wing.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-16.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_r_wing_r_wing.png"/>
+  </drawing>
+  <drawing node="babybird_legs" name="2-babybird" drwId="7">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_legs_r_leg.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-17.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_legs_r_leg.png"/>
+  </drawing>
+  <drawing node="babybird_body" name="2-babybird" drwId="8">
+   <drw skinId="0" frame="1" repeat="19" name="2-babybird-1_body_body.png"/>
+   <drw skinId="0" frame="20" repeat="10" name="2-babybird-18.png"/>
+   <drw skinId="0" frame="30" repeat="1" name="2-babybird-1_body_body.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

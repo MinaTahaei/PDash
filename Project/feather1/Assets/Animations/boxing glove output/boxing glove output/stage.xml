@@ -1,0 +1,20 @@
+<stages>
+ <stage name="boxing_glove_boxing_glove">
+  <node groupId="0" skinId="0" name="boxing_glove_glove" drwId="1"/>
+  <node groupId="0" skinId="0" name="boxing_glove_last_front" drwId="2"/>
+  <node groupId="0" skinId="0" name="boxing_glove_6th_back" drwId="3"/>
+  <node groupId="0" skinId="0" name="boxing_glove_5th_front" drwId="4"/>
+  <node groupId="0" skinId="0" name="boxing_glove_4th_back" drwId="5"/>
+  <node groupId="0" skinId="0" name="boxing_glove_3rd_front" drwId="6"/>
+  <node groupId="0" skinId="0" name="boxing_glove_2nd_back" drwId="7"/>
+  <node groupId="0" skinId="0" name="boxing_glove_1st_front" drwId="8"/>
+  <node groupId="0" skinId="0" name="boxing_glove_last_back" drwId="9"/>
+  <node groupId="0" skinId="0" name="boxing_glove_6th_front" drwId="10"/>
+  <node groupId="0" skinId="0" name="boxing_glove_5th_back" drwId="11"/>
+  <node groupId="0" skinId="0" name="boxing_glove_4th_front" drwId="12"/>
+  <node groupId="0" skinId="0" name="boxing_glove_3rd_back" drwId="13"/>
+  <node groupId="0" skinId="0" name="boxing_glove_2nd_front" drwId="14"/>
+  <node groupId="0" skinId="0" name="boxing_glove_1st_back" drwId="15"/>
+  <play drawingAnimation="boxing_glove_Top" name="Top" skeleton="Top" animation="boxing_glove_Top"/>
+ </stage>
+</stages>

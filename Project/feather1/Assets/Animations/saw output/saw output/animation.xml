@@ -1,0 +1,152 @@
+<animations>
+ <animation name="saw_Top">
+  <attrlinks>
+   <attrlink attr="rotation.anglez" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703802"/>
+   <attrlink attr="offset" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703800"/>
+   <attrlink attr="velocity" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703800_velocity"/>
+   <attrlink attr="scale.x" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703803"/>
+   <attrlink attr="scale.y" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703804"/>
+   <attrlink attr="skew" node="saw_Handle-P" timedvalue="ATV-098EFCD3B6703805"/>
+   <attrlink attr="pivot" node="saw_Handle-P" timedvalue="PIVOT-TV-saw_Handle-P"/>
+   <attrlink attr="rotation.anglez" node="saw_Handle" timedvalue="ATV-098EFCD3B67030AE"/>
+   <attrlink attr="offset.x" node="saw_Handle" timedvalue="ATV-098EFCD3B670295C"/>
+   <attrlink attr="offset.y" node="saw_Handle" timedvalue="ATV-098EFCD3B670295D"/>
+   <attrlink attr="offset.z" node="saw_Handle" timedvalue="ATV-098EFCD3B67030AD"/>
+   <attrlink attr="scale.x" node="saw_Handle" timedvalue="ATV-098EFCD3B6701BFC"/>
+   <attrlink attr="scale.y" node="saw_Handle" timedvalue="ATV-098EFCD3B6701BFD"/>
+   <attrlink attr="skew" node="saw_Handle" timedvalue="ATV-098EFCD3B67030AF"/>
+   <attrlink attr="pivot" node="saw_Handle" timedvalue="PIVOT-TV-saw_Handle"/>
+   <attrlink attr="opacity" node="saw_Handle" value="1"/>
+   <attrlink attr="rotation.anglez" node="saw_saw-P" timedvalue="ATV-098EFCD3B6703808"/>
+   <attrlink attr="offset" node="saw_saw-P" timedvalue="ATV-098EFCD3B6703806"/>
+   <attrlink attr="velocity" node="saw_saw-P" timedvalue="ATV-098EFCD3B6703806_velocity"/>
+   <attrlink attr="scale.x" node="saw_saw-P" timedvalue="ATV-098EFCD3B6703809"/>
+   <attrlink attr="scale.y" node="saw_saw-P" timedvalue="ATV-098EFCD3B670380A"/>
+   <attrlink attr="skew" node="saw_saw-P" timedvalue="ATV-098EFCD3B670380B"/>
+   <attrlink attr="pivot" node="saw_saw-P" timedvalue="PIVOT-TV-saw_saw-P"/>
+   <attrlink attr="rotation.anglez" node="saw_saw" timedvalue="ATV-098EFCD3B67030B1"/>
+   <attrlink attr="offset.x" node="saw_saw" timedvalue="ATV-098EFCD3B670295A"/>
+   <attrlink attr="offset.y" node="saw_saw" timedvalue="ATV-098EFCD3B670295B"/>
+   <attrlink attr="offset.z" node="saw_saw" timedvalue="ATV-098EFCD3B67030B0"/>
+   <attrlink attr="scale.x" node="saw_saw" timedvalue="ATV-098EFCD3B6701BFA"/>
+   <attrlink attr="scale.y" node="saw_saw" timedvalue="ATV-098EFCD3B6701BFB"/>
+   <attrlink attr="skew" node="saw_saw" timedvalue="ATV-098EFCD3B67030B2"/>
+   <attrlink attr="opacity" node="saw_saw" value="1"/>
+  </attrlinks>
+  <timedvalues>
+   <bezier name="ATV-098EFCD3B6703802">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <catmull scaleY="42.67" scaleZ="0.2222222222222222" name="ATV-098EFCD3B6703800" scaleX="56.89333333333333">
+    <pt x="0" y="0" z="0" lockedInTime="1"/>
+    <pt x="0" y="0" z="0" lockedInTime="4"/>
+   </catmull>
+   <bezier name="ATV-098EFCD3B6703800_velocity">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0.9999999999999999" rx="4" ry="0.9999999999999999" lx="4" ly="0.9999999999999999" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6703803">
+    <pt x="1" y="1" rx="1" ry="1" lx="1" ly="1" constSeg="false"/>
+    <pt x="4" y="1" rx="4" ry="1" lx="4" ly="1" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6703804">
+    <pt x="1" y="1" rx="1" ry="1" lx="1" ly="1" constSeg="false"/>
+    <pt x="4" y="1" rx="4" ry="1" lx="4" ly="1" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6703805">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <pivot name="PIVOT-TV-saw_Handle-P">
+    <pt x="-268.4413746108161" y="-9.663889485989305" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-098EFCD3B67030AE">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670295C">
+    <pt x="1" y="-191.3863233246404" rx="1" ry="-191.3863233246404" lx="1" ly="-191.3863233246404" constSeg="false"/>
+    <pt x="4" y="-191.3863233246404" rx="4" ry="-191.3863233246404" lx="4" ly="-191.3863233246404" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670295D">
+    <pt x="1" y="-16.60498611607139" rx="1" ry="-16.60498611607139" lx="1" ly="-16.60498611607139" constSeg="false"/>
+    <pt x="4" y="-16.60498611607139" rx="4" ry="-16.60498611607139" lx="4" ly="-16.60498611607139" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B67030AD">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6701BFC">
+    <pt x="1" y="0.598638308623173" rx="1" ry="0.598638308623173" lx="1" ly="0.598638308623173" constSeg="false"/>
+    <pt x="4" y="0.598638308623173" rx="4" ry="0.598638308623173" lx="4" ly="0.598638308623173" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6701BFD">
+    <pt x="1" y="0.598638308623173" rx="1" ry="0.598638308623173" lx="1" ly="0.598638308623173" constSeg="false"/>
+    <pt x="4" y="0.598638308623173" rx="4" ry="0.598638308623173" lx="4" ly="0.598638308623173" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B67030AF">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <pivot name="PIVOT-TV-saw_Handle">
+    <pt x="-91.26665347145378" y="10.92034524196027" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-098EFCD3B6703808">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <catmull scaleY="42.67" scaleZ="0.2222222222222222" name="ATV-098EFCD3B6703806" scaleX="56.89333333333333">
+    <pt x="0" y="0" z="0" lockedInTime="1"/>
+    <pt x="0" y="0" z="0" lockedInTime="4"/>
+   </catmull>
+   <bezier name="ATV-098EFCD3B6703806_velocity">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0.9999999999999999" rx="4" ry="0.9999999999999999" lx="4" ly="0.9999999999999999" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6703809">
+    <pt x="1" y="1" rx="1" ry="1" lx="1" ly="1" constSeg="false"/>
+    <pt x="4" y="1" rx="4" ry="1" lx="4" ly="1" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670380A">
+    <pt x="1" y="1" rx="1" ry="1" lx="1" ly="1" constSeg="false"/>
+    <pt x="4" y="1" rx="4" ry="1" lx="4" ly="1" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670380B">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <pivot name="PIVOT-TV-saw_saw-P">
+    <pt x="-278.5474028314588" y="-11.36928174822278" z="0" start="1"/>
+   </pivot>
+   <bezier name="ATV-098EFCD3B67030B1">
+    <pt x="1" y="0.01261345753175401" rx="1" ry="0.01261345753175401" lx="1" ly="0.01261345753175401" constSeg="false"/>
+    <pt x="4" y="-0.1630089748116646" rx="4" ry="-0.1630089748116646" lx="4" ly="-0.1630089748116646" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670295A">
+    <pt x="1" y="-228.0172617282459" rx="1" ry="-228.0172617282459" lx="1" ly="-228.0172617282459" constSeg="false"/>
+    <pt x="4" y="-228.0172617282459" rx="4" ry="-228.0172617282459" lx="4" ly="-228.0172617282459" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B670295B">
+    <pt x="1" y="-12.22197787933934" rx="1" ry="-12.22197787933934" lx="1" ly="-12.22197787933934" constSeg="false"/>
+    <pt x="4" y="-12.22197787933934" rx="4" ry="-12.22197787933934" lx="4" ly="-12.22197787933934" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B67030B0">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6701BFA">
+    <pt x="1" y="0.598638308623173" rx="1" ry="0.598638308623173" lx="1" ly="0.598638308623173" constSeg="false"/>
+    <pt x="4" y="0.598638308623173" rx="4" ry="0.598638308623173" lx="4" ly="0.598638308623173" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B6701BFB">
+    <pt x="1" y="0.598638308623173" rx="1" ry="0.598638308623173" lx="1" ly="0.598638308623173" constSeg="false"/>
+    <pt x="4" y="0.598638308623173" rx="4" ry="0.598638308623173" lx="4" ly="0.598638308623173" constSeg="false"/>
+   </bezier>
+   <bezier name="ATV-098EFCD3B67030B2">
+    <pt x="1" y="0" rx="1" ry="0" lx="1" ly="0" constSeg="false"/>
+    <pt x="4" y="0" rx="4" ry="0" lx="4" ly="0" constSeg="false"/>
+   </bezier>
+  </timedvalues>
+ </animation>
+</animations>

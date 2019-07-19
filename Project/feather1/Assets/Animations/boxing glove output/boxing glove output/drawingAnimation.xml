@@ -1,0 +1,49 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="boxing_glove_Top">
+  <drawing node="boxing_glove_glove" name="2-boxing_glove" drwId="1">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_glove_glove.png"/>
+  </drawing>
+  <drawing node="boxing_glove_last_front" name="2-boxing_glove" drwId="2">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_last_front_last_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_6th_back" name="2-boxing_glove" drwId="3">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_6th_back_6th_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_5th_front" name="2-boxing_glove" drwId="4">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_5th_front_5th_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_4th_back" name="2-boxing_glove" drwId="5">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_4th_back_4th_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_3rd_front" name="2-boxing_glove" drwId="6">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_3rd_front_3rd_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_2nd_back" name="2-boxing_glove" drwId="7">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_2nd_back_2nd_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_1st_front" name="2-boxing_glove" drwId="8">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_1st_front_1st_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_last_back" name="2-boxing_glove" drwId="9">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_last_back_last_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_6th_front" name="2-boxing_glove" drwId="10">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_6th_front_6th_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_5th_back" name="2-boxing_glove" drwId="11">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_5th_back_5th_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_4th_front" name="2-boxing_glove" drwId="12">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_4th_front_4th_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_3rd_back" name="2-boxing_glove" drwId="13">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_3rd_back_3rd_back.png"/>
+  </drawing>
+  <drawing node="boxing_glove_2nd_front" name="2-boxing_glove" drwId="14">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_2nd_front_2nd_front.png"/>
+  </drawing>
+  <drawing node="boxing_glove_1st_back" name="2-boxing_glove" drwId="15">
+   <drw skinId="0" frame="1" repeat="40" name="2-boxing_glove-1_1st_back_1st_back.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

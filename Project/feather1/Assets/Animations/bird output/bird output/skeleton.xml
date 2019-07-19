@@ -1,0 +1,40 @@
+<skeletons>
+ <skeleton name="Top">
+  <nodes>
+   <peg id="0" name="babybird_body-P"/>
+   <peg id="1" name="babybird_head-P"/>
+   <peg id="2" name="babybird_happy_eyes-P"/>
+   <read id="3" name="babybird_happy_eyes"/>
+   <peg id="4" name="babybird_beak-P"/>
+   <read id="5" name="babybird_beak"/>
+   <peg id="6" name="babybird_feather-P"/>
+   <read id="7" name="babybird_feather"/>
+   <read id="8" name="babybird_head"/>
+   <peg id="9" name="babybird_l_wing-P"/>
+   <read id="10" name="babybird_l_wing"/>
+   <peg id="11" name="babybird_r_wing-P"/>
+   <read id="12" name="babybird_r_wing"/>
+   <peg id="13" name="babybird_legs-P"/>
+   <read id="14" name="babybird_legs"/>
+   <read id="15" name="babybird_body"/>
+  </nodes>
+  <links>
+   <link in="Top" out="0"/>
+   <link in="0" out="1"/>
+   <link in="1" out="2"/>
+   <link in="2" out="3"/>
+   <link in="1" out="4"/>
+   <link in="4" out="5"/>
+   <link in="4" out="6"/>
+   <link in="6" out="7"/>
+   <link in="1" out="8"/>
+   <link in="0" out="9"/>
+   <link in="9" out="10"/>
+   <link in="0" out="11"/>
+   <link in="11" out="12"/>
+   <link in="0" out="13"/>
+   <link in="13" out="14"/>
+   <link in="0" out="15"/>
+  </links>
+ </skeleton>
+</skeletons>

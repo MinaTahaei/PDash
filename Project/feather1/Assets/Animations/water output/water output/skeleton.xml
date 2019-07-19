@@ -1,0 +1,60 @@
+<skeletons>
+ <skeleton name="Top">
+  <nodes>
+   <peg id="0" name="water_left_going_drop-P"/>
+   <read id="1" name="water_left_going_drop"/>
+   <peg id="2" name="water_right_going_drop-P"/>
+   <read id="3" name="water_right_going_drop"/>
+   <peg id="4" name="water_1st_down_going_drop-P"/>
+   <read id="5" name="water_1st_down_going_drop"/>
+   <peg id="6" name="water_2nd_down_going_drop-P"/>
+   <read id="7" name="water_2nd_down_going_drop"/>
+   <peg id="8" name="water_3rd_down_going_drop-P"/>
+   <read id="9" name="water_3rd_down_going_drop"/>
+   <peg id="10" name="water_whaterfall-P"/>
+   <read id="11" name="water_whaterfall"/>
+   <peg id="12" name="water_waterfall2-P"/>
+   <read id="13" name="water_waterfall2"/>
+   <peg id="14" name="water_half_pipe-P"/>
+   <read id="15" name="water_half_pipe"/>
+   <peg id="16" name="water_r_wave-P"/>
+   <read id="17" name="water_r_wave"/>
+   <peg id="18" name="water_l_wave-P"/>
+   <read id="19" name="water_l_wave"/>
+   <peg id="20" name="water_l_wave_1-P"/>
+   <read id="21" name="water_l_wave_1"/>
+   <peg id="22" name="water_water_on_the_board-P"/>
+   <read id="23" name="water_water_on_the_board"/>
+   <peg id="24" name="water_board-P"/>
+   <read id="25" name="water_board"/>
+  </nodes>
+  <links>
+   <link in="Top" out="0"/>
+   <link in="0" out="1"/>
+   <link in="Top" out="2"/>
+   <link in="2" out="3"/>
+   <link in="Top" out="4"/>
+   <link in="4" out="5"/>
+   <link in="Top" out="6"/>
+   <link in="6" out="7"/>
+   <link in="Top" out="8"/>
+   <link in="8" out="9"/>
+   <link in="Top" out="10"/>
+   <link in="10" out="11"/>
+   <link in="Top" out="12"/>
+   <link in="12" out="13"/>
+   <link in="Top" out="14"/>
+   <link in="14" out="15"/>
+   <link in="Top" out="16"/>
+   <link in="16" out="17"/>
+   <link in="Top" out="18"/>
+   <link in="18" out="19"/>
+   <link in="Top" out="20"/>
+   <link in="20" out="21"/>
+   <link in="Top" out="22"/>
+   <link in="22" out="23"/>
+   <link in="Top" out="24"/>
+   <link in="24" out="25"/>
+  </links>
+ </skeleton>
+</skeletons>

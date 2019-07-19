@@ -1,0 +1,43 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="water_Top">
+  <drawing node="water_left_going_drop" name="3-water" drwId="1">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_left_going_drop_left_going_drop.png"/>
+  </drawing>
+  <drawing node="water_right_going_drop" name="3-water" drwId="2">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_right_going_drop_right_going_drop.png"/>
+  </drawing>
+  <drawing node="water_1st_down_going_drop" name="3-water" drwId="3">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_1st_down_going_drop_1st_down_going_drop.png"/>
+  </drawing>
+  <drawing node="water_2nd_down_going_drop" name="3-water" drwId="4">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_2nd_down_going_drop_2nd_down_going_drop.png"/>
+  </drawing>
+  <drawing node="water_3rd_down_going_drop" name="3-water" drwId="5">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_3rd_down_going_drop_3rd_down_going_drop.png"/>
+  </drawing>
+  <drawing node="water_whaterfall" name="3-water" drwId="6">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_whaterfall_whaterfall.png"/>
+  </drawing>
+  <drawing node="water_waterfall2" name="3-water" drwId="7">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_waterfall2_waterfall2.png"/>
+  </drawing>
+  <drawing node="water_half_pipe" name="3-water" drwId="8">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_half_pipe_half_pipe.png"/>
+  </drawing>
+  <drawing node="water_r_wave" name="4-water" drwId="9">
+   <drw skinId="0" frame="1" repeat="19" name="4-water-1_r_wave_r_wave.png"/>
+  </drawing>
+  <drawing node="water_l_wave" name="4-water" drwId="10">
+   <drw skinId="0" frame="1" repeat="19" name="4-water-1_l_wave_l_wave.png"/>
+  </drawing>
+  <drawing node="water_l_wave_1" name="5-water" drwId="11">
+   <drw skinId="0" frame="1" repeat="19" name="5-water-1_l_wave_l_wave.png"/>
+  </drawing>
+  <drawing node="water_water_on_the_board" name="3-water" drwId="12">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_water_on_the_board_water_on_the_board.png"/>
+  </drawing>
+  <drawing node="water_board" name="3-water" drwId="13">
+   <drw skinId="0" frame="1" repeat="19" name="3-water-1_board_board.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

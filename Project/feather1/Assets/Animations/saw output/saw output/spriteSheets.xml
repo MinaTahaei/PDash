@@ -1,0 +1,7 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="my game" width="951" height="772" name="sheet_Top" filename="spriteSheets/sheet_Top-my game.png">
+  <sprite scaleY="2.00016" angleDegrees="0" rect="257,0,694,772" offsetX="27.5" offsetY="23.5" name="2-saw-1_saw_Saw.png" scaleX="2.00016"/>
+  <sprite scaleY="2.00016" angleDegrees="0" rect="0,0,257,494" offsetX="-104.5" offsetY="-173.5" name="2-saw-1_Handle_Handle.png" scaleX="2.00016"/>
+ </spritesheet>
+</spritesheets>

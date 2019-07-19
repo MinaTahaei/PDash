@@ -1,0 +1,13 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="my game" width="7744" height="1486" name="sheet_Top" filename="spriteSheets/sheet_Top-my game.png">
+  <sprite scaleY="0.999844" angleDegrees="0" rect="7007,0,737,1486" offsetX="383" offsetY="-84.5" name="10-blower_seperate_mid-1_down_handle_down_handle.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="6327,0,680,1054" offsetX="269.5" offsetY="116.5" name="10-blower_seperate_mid-1_7th_mid_7th_mid.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="5430,0,897,886" offsetX="133" offsetY="236.5" name="10-blower_seperate_mid-1_5th_mid_5th_mid.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="4369,0,1061,658" offsetX="26" offsetY="373.5" name="10-blower_seperate_mid-1_3rd_mid_3rd_mid.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="3910,0,459,456" offsetX="716" offsetY="788.5" name="10-blower_seperate_mid-1_head_head.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="2736,0,1174,429" offsetX="-47.5" offsetY="544" name="10-blower_seperate_mid-1_1st_mid_1st_mid.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="1537,0,1199,163" offsetX="-77" offsetY="698" name="10-blower_seperate_mid-1_1st_edge_1st_edge.png" scaleX="0.999844"/>
+  <sprite scaleY="0.999844" angleDegrees="0" rect="0,0,1537,138" offsetX="-196" offsetY="811.5" name="10-blower_seperate_mid-1_up_handle_up_handle.png" scaleX="0.999844"/>
+ </spritesheet>
+</spritesheets>

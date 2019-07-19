@@ -1,0 +1,13 @@
+<stages>
+ <stage name="bird_bird">
+  <node groupId="0" skinId="0" name="babybird_happy_eyes" drwId="1"/>
+  <node groupId="0" skinId="0" name="babybird_beak" drwId="2"/>
+  <node groupId="0" skinId="0" name="babybird_feather" drwId="3"/>
+  <node groupId="0" skinId="0" name="babybird_head" drwId="4"/>
+  <node groupId="0" skinId="0" name="babybird_l_wing" drwId="5"/>
+  <node groupId="0" skinId="0" name="babybird_r_wing" drwId="6"/>
+  <node groupId="0" skinId="0" name="babybird_legs" drwId="7"/>
+  <node groupId="0" skinId="0" name="babybird_body" drwId="8"/>
+  <play drawingAnimation="bird_Top" name="Top" skeleton="Top" animation="bird_Top"/>
+ </stage>
+</stages>

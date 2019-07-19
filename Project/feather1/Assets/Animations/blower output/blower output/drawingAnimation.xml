@@ -1,0 +1,28 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="blower_Top">
+  <drawing node="blower_seperate_mid_head" name="10-blower_seperate_mid" drwId="1">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_head_head.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_up_handle" name="10-blower_seperate_mid" drwId="2">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_up_handle_up_handle.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_down_handle" name="10-blower_seperate_mid" drwId="3">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_down_handle_down_handle.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_7th_mid" name="10-blower_seperate_mid" drwId="4">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_7th_mid_7th_mid.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_5th_mid" name="10-blower_seperate_mid" drwId="5">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_5th_mid_5th_mid.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_3rd_mid" name="10-blower_seperate_mid" drwId="6">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_3rd_mid_3rd_mid.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_1st_mid" name="10-blower_seperate_mid" drwId="7">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_1st_mid_1st_mid.png"/>
+  </drawing>
+  <drawing node="blower_seperate_mid_1st_edge" name="10-blower_seperate_mid" drwId="8">
+   <drw skinId="0" frame="1" repeat="15" name="10-blower_seperate_mid-1_1st_edge_1st_edge.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

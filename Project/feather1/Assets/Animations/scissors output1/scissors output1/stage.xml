@@ -1,0 +1,17 @@
+<stages>
+ <stage name="scissors_scissors">
+  <node groupId="0" skinId="0" name="scissors_glove_down_" drwId="1"/>
+  <node groupId="0" skinId="0" name="scissors_scissor_down" drwId="2"/>
+  <node groupId="0" skinId="0" name="scissors_glove_down_under_scissor" drwId="3"/>
+  <node groupId="0" skinId="0" name="scissors_left_down" drwId="4"/>
+  <node groupId="0" skinId="0" name="scissors_mid_down" drwId="5"/>
+  <node groupId="0" skinId="0" name="scissors_right_down" drwId="6"/>
+  <node groupId="0" skinId="0" name="scissors_glove_up" drwId="7"/>
+  <node groupId="0" skinId="0" name="scissors_scissor_up" drwId="8"/>
+  <node groupId="0" skinId="0" name="scissors_glove_up_under_scissor" drwId="9"/>
+  <node groupId="0" skinId="0" name="scissors_left_up" drwId="10"/>
+  <node groupId="0" skinId="0" name="scissors_mid_up" drwId="11"/>
+  <node groupId="0" skinId="0" name="scissors_right_up" drwId="12"/>
+  <play drawingAnimation="scissors_Top" name="Top" skeleton="Top" animation="scissors_Top"/>
+ </stage>
+</stages>

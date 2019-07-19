@@ -1,0 +1,13 @@
+<stages>
+ <stage name="blower_blower">
+  <node groupId="0" skinId="0" name="blower_seperate_mid_head" drwId="1"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_up_handle" drwId="2"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_down_handle" drwId="3"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_7th_mid" drwId="4"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_5th_mid" drwId="5"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_3rd_mid" drwId="6"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_1st_mid" drwId="7"/>
+  <node groupId="0" skinId="0" name="blower_seperate_mid_1st_edge" drwId="8"/>
+  <play drawingAnimation="blower_Top" name="Top" skeleton="Top" animation="blower_Top"/>
+ </stage>
+</stages>
